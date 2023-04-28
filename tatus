@@ -1,0 +1,44 @@
+* [33m44863fb[m[33m ([m[1;36mHEAD -> [m[1;32mramaAndres[m[33m)[m bug en areamensaje
+* [33m64a0250[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m casi se logra empezar la ronda siguiente, no funcionan escuchas
+* [33m665472e[m[33m ([m[1;31morigin/ramaDavid[m[33m)[m YA no quiero más :(
+* [33m429b537[m avance
+* [33m16607b7[m funciona a medias esa mondá
+* [33m07ebf4f[m comenzando cambios locos
+* [33m6782949[m Ya activa el JOptionPane para reiniciar el juego
+* [33m1e5888e[m null pointers everywhere
+* [33m950a4cd[m En proceso de reiniciarJuego
+* [33m18338d8[m cambio de As solucionado
+* [33m317998a[m[33m ([m[1;32mramaDavid[m[33m)[m Determinar ganador finalizado
+* [33md695dcd[m Seguimiento de las apuestas
+* [33m851006b[m se pasa apuesta inicial
+* [33mfbc5c94[m as
+*   [33m277e540[m lo que me pasó david
+[32m|[m[33m\[m  
+[32m|[m * [33m7e32fc2[m Cartas pintadas, jframe interno centrado, valor de As 1 u 11
+[32m|[m * [33m2193bad[m Pinta cartas hermoso
+[32m|[m * [33m2eb7c6f[m DESESPERADO
+[32m|[m * [33m444fa9b[m Hilos funcionando
+[32m|[m [33m|[m *   [33m07b72a0[m[33m ([m[1;35mrefs/stash[m[33m)[m WIP on ramaDavid: 4f502c9 mix
+[32m|[m [33m|[m [32m|[m[35m\[m  
+[32m|[m [33m|[m[32m/[m [35m/[m  
+[32m|[m[32m/[m[33m|[m [35m|[m   
+[32m|[m [33m|[m * [33mdf98daa[m index on ramaDavid: 4f502c9 mix
+[32m|[m [33m|[m[32m/[m  
+[32m|[m[32m/[m[33m|[m   
+* [33m|[m [33m4f502c9[m mix
+[35m|[m [33m|[m * [33m8ff0872[m[33m ([m[1;31morigin/ramaAndres[m[33m)[m error hardcore
+[35m|[m [33m|[m * [33m0d00a9d[m haciendo push prque ese signo aparece
+[35m|[m [33m|[m * [33m22fb3cb[m hilos funcionando con mensajes burdos
+[35m|[m [33m|[m[33m/[m  
+[35m|[m * [33mc9787a3[m parece que sirven los hilos
+[35m|[m * [33m21f21a3[m 2 se queda mimido
+[35m|[m * [33m47b00f2[m listos para empezar
+[35m|[m *   [33mb05aae0[m Merge branch 'ramaDavid' of https://github.com/andresfeliper3/Blackjack into main
+[35m|[m [1;31m|[m[35m\[m  
+[35m|[m [1;31m|[m[35m/[m  
+[35m|[m[35m/[m[1;31m|[m   
+* [1;31m|[m [33m5729040[m Inicial
+[1;32m|[m * [33m3d6120f[m solucion llave
+[1;32m|[m[1;32m/[m  
+* [33mf2afb26[m primera subida
+* [33m7f176c2[m Initial commit
